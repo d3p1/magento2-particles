@@ -1,0 +1,31 @@
+/**
+ * @description Styles
+ * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
+ * @note        Add z-index style to
+ *              allow particles effect to act as a background
+ */
+& when (@media-common = true) {
+    .particles-container {
+        position: relative;
+
+        > * {
+            z-index: 1;
+        }
+
+        .particles {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            max-width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 0;
+
+            .particles-js-canvas-el {
+                height: 100%;
+                width: 100%;
+                max-width: 100%;
+            }
+        }
+    }
+}

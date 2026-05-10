@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/d3p1/magento2-particles/compare/v1.0.0...v1.0.1) (2026-05-10)
+
+
+### Bug Fixes
+
+* add unversioned package-lock.json file [[#1](https://github.com/d3p1/magento2-particles/issues/1)] ([8774799](https://github.com/d3p1/magento2-particles/commit/87747990b35eec249b659c33129342669af828ee))
+
 # 1.0.0 (2026-05-10)
 
 

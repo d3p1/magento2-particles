@@ -1,3 +1,10 @@
+# 1.0.0 (2026-05-10)
+
+
+### Features
+
+* init [[#1](https://github.com/d3p1/magento2-particles/issues/1)] ([17ea613](https://github.com/d3p1/magento2-particles/commit/17ea61343dfeca9dab2437d0086d05ca962e56d1))
+
 # 1.0.0 (2026-04-22)
 
 
